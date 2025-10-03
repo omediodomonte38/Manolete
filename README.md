@@ -41,7 +41,7 @@ The sides and top plates are assembled using wood screws, threaded onto the poly
 
 ## Electronics
 
-The robot is driven through a simple receiver with brushed motors (and corresponding esc) and brushless motor for the weapon (also with corresponding esc). 
+The robot is driven through a simple receiver with brushed motors (and corresponding esc) for both wheels, with simple tank-style driving, and a brushless motor for the weapon (also with corresponding esc). 
 
 
 
