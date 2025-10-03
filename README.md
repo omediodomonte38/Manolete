@@ -11,16 +11,18 @@ Created by:
 The design of Manolete 2025 is an iteration of Manolete 2024. The robot is a beater-bar type. Due to the weight of the 2024 model, for 2025 we decided to start from scratch and, instead of using 3D printing, we used CNC-cut or manually cut parts in order to reduce weight and increase strength. The weapon has been changed from plastic to aluminum to increase its destructive capacity.
 
 ## Partes
-- [Motores ruedas (400rpm)](https://a.aliexpress.com/_EvYxx0i)
-- [Motor arma (1200KV)](https://a.aliexpress.com/_EvVvyQE)
-- [Tornillos (m2 y m3)](https://a.aliexpress.com/_EGK4m7c)
+- [Wheel Motors (400rpm)](https://a.aliexpress.com/_EvYxx0i)
+- [Weapon Motor (1200KV)](https://a.aliexpress.com/_EvVvyQE)
+- [Screws (m2 y m3)](https://a.aliexpress.com/_EGK4m7c)
 - [Heat-Inserts](https://a.aliexpress.com/_EweGZSe)
-- [Correa (s3m-165-55T)](https://a.aliexpress.com/_EwXwIhg)
-- [Fibra de carbono (1.5mm) — placas de 10x11cm](https://a.aliexpress.com/_Ey8keHu)
-- [Aluminio 7075 (pieza de 3.7x8x1.5cm vaciada)](https://www.randrade.com/recortes/1454-chapa-aluminio-en-aw-7075-t6-de-espesor-recortes.html)
-- [Lexán 5mm (Allan please add STL file)](https://www.randrade.com/recortes/1817-chapa-policarbonato-incoloro-espesor-recortes.html)
-- [Tornillos avellanados M4 de 1.5cm](https://rayteyper.es/)
-- Juntas tóricas para shock absorption, donadas por el abuelo de @
+- [Belt (s3m-165-55T)](https://a.aliexpress.com/_EwXwIhg)
+- [Pulley (s3m-15T)]([https://a.aliexpress.com/_EwXwIhg](https://es.aliexpress.com/item/1005007624969629.html))
+- [Carbon fibre (1.5mm) — 10x11cm sheets](https://a.aliexpress.com/_Ey8keHu)
+- [7075 aluminium (3.7 x 8 x 1.5 cm hollow piece)](https://www.randrade.com/recortes/1454-chapa-aluminio-en-aw-7075-t6-de-espesor-recortes.html)
+- [Polycarbonate 5mm (STL files TBA)](https://www.randrade.com/recortes/1817-chapa-policarbonato-incoloro-espesor-recortes.html)
+- [Countersunk screws M4 of 1.5cm](https://rayteyper.es/)
+- [Wheels (1/10 RC Car)](https://es.aliexpress.com/item/1005009454745832.html)
+- O-rings, for shock absorption, graciously donated by Mateo's grandpa
 
 ## Manufacturing
 
