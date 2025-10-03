@@ -16,7 +16,7 @@ The design of Manolete 2025 is an iteration of Manolete 2024. The robot is a bea
 - [Screws (m2 y m3)](https://a.aliexpress.com/_EGK4m7c)
 - [Heat-Inserts](https://a.aliexpress.com/_EweGZSe)
 - [Belt (s3m-165-55T)](https://a.aliexpress.com/_EwXwIhg)
-- [Pulley (s3m-15T)]([https://a.aliexpress.com/_EwXwIhg](https://es.aliexpress.com/item/1005007624969629.html))
+- [Pulley (s3m-15T)](https://es.aliexpress.com/item/1005007624969629.html)
 - [Carbon fibre (1.5mm) — 10x11cm sheets](https://a.aliexpress.com/_Ey8keHu)
 - [7075 aluminium (3.7 x 8 x 1.5 cm hollow piece)](https://www.randrade.com/recortes/1454-chapa-aluminio-en-aw-7075-t6-de-espesor-recortes.html)
 - [Polycarbonate 5mm (STL files TBA)](https://www.randrade.com/recortes/1817-chapa-policarbonato-incoloro-espesor-recortes.html)
