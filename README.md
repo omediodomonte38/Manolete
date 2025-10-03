@@ -1,5 +1,5 @@
 # Manolete
-Manolete: Combat robot created for the OSHDEM 2025 Antweight 1lb combat competition.
+Manolete: Combat robot created for the OSHWDEM 2025 Antweight 1lb combat competition.
 
 Created by:
 
@@ -8,7 +8,7 @@ Created by:
 
 ## Introduction
 
-The design of Manolete 2025 is an iteration of Manolete 2024. The robot is a beater-bar type. Due to the weight of the 2024 model, for 2025 we decided to start from scratch and, instead of using 3D printing, we used CNC-cut or manually cut parts in order to reduce weight and increase strength. The weapon has been changed from plastic to aluminum to increase its destructive capacity.
+The design of Manolete 2025 is an iteration of Manolete 2024. The robot is a vertical spinner with an beater bar type weapon. Due to the weight of the 2024 model, for 2025 we decided to start from scratch and, instead of relying on 3D printing, we decided to use CNC mill or manually cut parts out of the raw materials, in order to reduce weight and increase strength. The weapon has been changed from plastic to aluminum to increase its destructive capacity.
 
 ## Parts
 - [Wheel Motors (400rpm)](https://a.aliexpress.com/_EvYxx0i)
